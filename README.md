@@ -1,10 +1,9 @@
+<div align="center">
 
-<h1 align="center">💻 Welcome to my GitHub Profile</h1>
+# 👋 WELCOME TO MY GITHUB PROFILE
 
-<p align="center">
-Here you can find my projects and experiments, where I explore new ideas. I focus on web development and creating minecraft plugins, and of course, I'm always learning something new each day.
-</p>
+I am a **university student** passionate about technology and problem-solving. I enjoy exploring new tools, building efficient solutions, and contributing to **open-source projects**.  
 
-<p align="center">
-✨ Every repository tells a small part of my journey. Whether it's a web project or a Minecraft plugin, this profile shows both what I am currently working on and what I have learned along the way.
-</p>
+I am particularly interested in **web development** and **minecraft plugin development**, and I’m always eager to learn and grow!  
+
+</div>
